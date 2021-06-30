@@ -13,11 +13,15 @@
     padding: 0 25px;
 }
 
-.row{
+/* .row{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-}
+    align-items: center;
+} */
+
+/* ===================== Header ===================== */
+
 
 .header{
     box-shadow: 0 0 10px rgba(16, 46, 74, 0.1);
@@ -57,5 +61,6 @@
 
     width: 100%;
 }
+
 
 
